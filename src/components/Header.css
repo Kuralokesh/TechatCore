@@ -1,0 +1,25 @@
+.active {
+  color: blue;
+}
+
+li {
+  padding-right: 25px;
+  /* margin: 7px; */
+  color: black;
+  list-style-type: none;
+}
+nav {
+  text-decoration: none;
+  list-style-type: none;
+}
+.Header_container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-self: center;
+  padding: 12px;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+}

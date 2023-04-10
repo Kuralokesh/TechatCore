@@ -1,0 +1,22 @@
+.home_container {
+  background-color: aquamarine;
+  color: black;
+  height: 100vh;
+  background-image: linear-gradient(
+    rgb(221, 207, 209),
+    rgb(177, 131, 131),
+    rgb(130, 192, 212)
+  );
+}
+.home_header {
+  font-size: 25px;
+  background-color: rgb(145, 123, 122);
+}
+p {
+  font-size: 25px;
+  padding-top: 30px;
+  color: rgb(27, 78, 146);
+}
+h1 {
+  padding-top: 20px;
+}
